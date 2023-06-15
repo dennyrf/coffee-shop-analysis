@@ -3,6 +3,7 @@
 In this project, I analyzed and visualized the data owned by a coffee shop for 8 months in the same year using Tableau. The data I analyzed included revenue, sold products, payment types, and order types each month.
 
 Both the Tableau Project and the dataset that can be accessed have been provided in this repository.
+Tableau public = https://public.tableau.com/shared/5CJ2PTQ2H?:display_count=n&:origin=viz_share_link
 
 Some columns in Bahasa:
 1. tanggal_transaksi = transaction date
